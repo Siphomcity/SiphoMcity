@@ -1,5 +1,5 @@
-<h1 align="center">Nkosikhona Msweli</h1>
-<h3 align="center">Full-Stack Developer | Data Scientist</h3>
+<h1 align="center">Siphosenkosi Simelane</h1>
+<h3 align="center">Full-Stack Developer | CYBER SECURITY ANALYST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkosikhonadryer&label=Profile%20views&color=0e75b6&style=flat" alt="nkosikhonadryer" /> </p>
 
