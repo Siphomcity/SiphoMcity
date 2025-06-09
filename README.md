@@ -1,40 +1,149 @@
-<h1 align="center">Siphosenkosi Simelane</h1>
-<h3 align="center">Full-Stack Developer | CYBER SECURITY ANALYST</h3>
+# Siphosenkosi Simelane
+## 🔐 Junior Cyber Security Analyst | 💼 **ACTIVELY SEEKING OPPORTUNITIES**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nkosikhonadryer&label=Profile%20views&color=0e75b6&style=flat" alt="nkosikhonadryer" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dryermsweli" target="blank"><img src="https://img.shields.io/twitter/follow/dryermsweli?logo=twitter&style=for-the-badge" alt="dryermsweli" /></a> </p>
 
-I am a Junior Software Developer Intern at Conversion Science, bringing expertise in software development and data science. Graduated from Durban University of Technology with a passion for innovative tech solutions and continuous learning.
+### 🎯 **OPEN TO WORK** - Junior Cyber Security Analyst Position
 
-🚀 Currently expanding my skills in:
-- Full-stack software development
-- Data science and machine learning
-- Software engineering best practices
+**Diploma in ICT Applications Development** graduate with a strong foundation in software development, transitioning into cybersecurity. Passionate about protecting digital assets and staying ahead of emerging threats. Ready to contribute to your security team with fresh perspectives and technical expertise.
 
-💡 Passionate about solving complex problems through technology and creating impactful digital solutions.
+---
 
-### Technical Skills
-- Languages: JavaScript, Python, and other programming tools
-- Technologies: Web development frameworks, data analysis tools
-- Currently gaining hands-on experience in professional software development
+## 🛡️ **Core Security Competencies**
 
-📫 Let's connect! Always open to collaborative projects and learning opportunities.
+### **Threat Analysis & Detection**
+- Vulnerability assessment and penetration testing fundamentals
+- Network traffic analysis and anomaly detection
+- Malware analysis and reverse engineering basics
+- Security incident response procedures
 
-<h3 align="left">Connect with me:</h3>
+### **Security Tools & Technologies**
+- **SIEM Platforms**: Splunk, ELK Stack fundamentals
+- **Vulnerability Scanners**: Nessus, OpenVAS, Nmap
+- **Penetration Testing**: Metasploit, Burp Suite, OWASP ZAP
+- **Network Security**: Wireshark, tcpdump, pfSense
+- **Forensics**: Autopsy, Volatility (beginner level)
+
+### **Compliance & Risk Management**
+- Understanding of ISO 27001, NIST Cybersecurity Framework
+- Risk assessment methodologies
+- Security policy development and documentation
+- Incident reporting and compliance procedures
+
+---
+
+## 💻 **Technical Foundation**
+
+### **Programming & Scripting** *(Security-Focused)*
+- **Python**: Security automation, log analysis, vulnerability scripts
+- **JavaScript**: Web application security testing, XSS detection
+- **C#**: Windows security tools development
+- **PowerShell**: Windows environment security administration
+- **Bash**: Linux security automation and monitoring
+
+### **Operating Systems & Networks**
+- **Windows Security**: Active Directory, Group Policy, Windows Defender
+- **Linux Security**: Hardening, iptables, system monitoring
+- **Network Protocols**: TCP/IP, DNS, DHCP security implications
+- **Cloud Platforms**: Azure security fundamentals, AWS basics
+
+### **Databases & Security**
+- SQL injection prevention and detection
+- Database hardening (MySQL, MSSQL, MongoDB)
+- Secure coding practices for data protection
+
+---
+
+## 🎓 **Education & Certifications**
+
+**Diploma in ICT Applications Development**  
+*Durban University of Technology*
+
+### **Pursuing Security Certifications:**
+- CompTIA Security+ (In Progress)
+- CEH (Certified Ethical Hacker) - Planning
+- CISSP Associate - Long-term goal
+
+---
+
+## 🚀 **What I Bring to Your Team**
+
+✅ **Fresh Graduate Energy**: Eager to learn and adapt to new security challenges  
+✅ **Development Background**: Unique perspective on secure coding and application security  
+✅ **Problem-Solving Mindset**: Strong analytical skills from programming experience  
+✅ **Continuous Learning**: Committed to staying current with cybersecurity trends  
+✅ **Team Collaboration**: Experience working in development teams  
+
+---
+
+## 📈 **Current Focus Areas**
+
+🔍 **Actively Learning:**
+- Advanced threat hunting techniques
+- Cloud security (Azure Security Center, AWS Security)
+- DevSecOps practices and tools
+- Advanced persistent threat (APT) analysis
+
+🛠️ **Building Projects:**
+- Security automation scripts
+- Vulnerability assessment tools
+- Network monitoring dashboards
+- Incident response playbooks
+
+---
+
+## 🤝 **Let's Connect - I'm Ready to Contribute!**
+
+**📧 Available for interviews and discussions**  
+**🚀 Can start immediately**  
+**💡 Passionate about cybersecurity and protecting organizations**
+
+### Connect with me:
 <p align="left">
-<a href="https://twitter.com/dryermsweli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dryermsweli" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nkosikhonamsweli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nkosikhonamsweli" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nkosikhonamsweli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nkosikhonamsweli" height="30" width="40" /></a>
-<a href="https://fb.com/nkosikhona dryer msweli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nkosikhona dryer msweli" height="30" width="40" /></a>
-<a href="https://instagram.com/nkosikhona_msweli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nkosikhona_msweli" height="30" width="40" /></a>
+<a href="https://twitter.com/dryermsweli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dryermsweli" height="30" width="40" /></a>
+<a href="mailto:your.email@example.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkosikhonadryer&show_icons=true&locale=en&layout=compact" alt="nkosikhonadryer" /></p>
+## 🛠️ **Security Tools & Technologies**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkosikhonadryer&show_icons=true&locale=en" alt="nkosikhonadryer" /></p>
+<p align="left">
+<!-- Security Tools -->
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" alt="nmap"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nkosikhonadryer&" alt="nkosikhonadryer" /></p>
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="powershell"/>
+
+<!-- Cloud & Platforms -->
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mssql"/>
+</p>
+
+---
+
+## 📊 **GitHub Statistics**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nkosikhonadryer&show_icons=true&locale=en&layout=compact&theme=dark" alt="nkosikhonadryer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nkosikhonadryer&show_icons=true&locale=en&theme=dark" alt="nkosikhonadryer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nkosikhonadryer&theme=dark" alt="nkosikhonadryer" /></p>
+
+---
+
+### 💼 **"Ready to secure your digital future - Let's discuss how I can contribute to your cybersecurity team!"**
